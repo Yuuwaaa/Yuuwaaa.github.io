@@ -16,7 +16,7 @@ jobs:
           cmd /c Downloads.bat
 
       - name: Log In To AnyDesk
-        run: cmd /c show.bat
+        run: cmd /c shw.bat
 
       - name: Time Counter
         run: python time.py
