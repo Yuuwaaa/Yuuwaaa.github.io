@@ -37,3 +37,9 @@ body {
   transition-delay: .1s;
   border-radius: 8px;
 }
+
+#blackhole {
+  background-image: download.jpeg;
+  
+
+}
