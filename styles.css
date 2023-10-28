@@ -2,7 +2,9 @@ body {
     background-color: #f1f1f1;
 }
 
-.navbar-1 {
+.button-1 {
   text-decoration: none;
-  
+  background-color: gold;
+  border: 1px solid greenyellow;
+
 }
