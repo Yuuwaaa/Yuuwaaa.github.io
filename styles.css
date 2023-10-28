@@ -1,10 +1,39 @@
-body {
-    background-color: #f1f1f1;
+*, 
+html {
+  margin: 0;
+  padding: 0;
 }
 
-.button-1 {
+body {
+    background-color: white;
+    height: 100vh;
+}
+.div-navbar {
+  background-color: gray;
+  width: 100%;
+  height: 100px;
+}
+.ul-navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.linavbar {
+   list-style-type: none;
+   padding: 20px;
+   margin: 5px;
+   color: white;
+   font-size: 30px;
+}
+.a-navbar {
+  color: black;
   text-decoration: none;
-  background-color: gold;
-  border: 1px solid greenyellow;
-  list-style-type: none;
+}
+.linavbar:hover {
+  background-color: white;
+  color: white;
+  transition: .3s ease-in-out;
+  transition-delay: .1s;
+  border-radius: 8px;
 }
