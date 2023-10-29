@@ -46,3 +46,12 @@ section {
   border-radius: 8px;
   padding: 10px;
 }
+#blackhole {
+  background-image: url("download.jpeg");
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  text-align: center;
+  padding: 100px;
+  position: relative;
+}
