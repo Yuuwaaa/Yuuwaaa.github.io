@@ -6,9 +6,6 @@ html {
 
 body {
     background-image: url("download2.jpg");
-    filter: blur(8px);
-    -webkit-filter: blur(8px);
-    background-position: center;
     height: 100vh;
 }
 .div-navbar {
