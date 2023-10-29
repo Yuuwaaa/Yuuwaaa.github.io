@@ -5,11 +5,10 @@ html {
 }
 
 body {
-    background-image: url("file-20211029-24-qblxnc.jpg");
+    background-image: url("download2.jpg");
     filter: blur(8px);
     -webkit-filter: blur(8px);
     background-position: center;
-    background-size: cover;
     height: 100vh;
 }
 .div-navbar {
