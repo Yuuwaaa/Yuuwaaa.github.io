@@ -32,13 +32,15 @@ body {
   color: #eeeeee;
   text-decoration: none;
   text-align: center;
+  filter: none;
 }
 .linavbar:hover {
   background-color: black;
   color: white;
   transition: .3s cubic-bezier(0.12, -0.02, 0.8, 0.95);
   transition-delay: .1s;
-  border-radius: 8px;
+  border-radius: 8px; 
+  filter: blur(1px);
 }
 section {
   border: 1px solid #ddd;
