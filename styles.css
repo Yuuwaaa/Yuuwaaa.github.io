@@ -51,8 +51,19 @@ section {
   padding: 100px;
   position: relative;
 }
+
 #aurora {
-  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.suara.com%2Flifestyle%2F2021%2F07%2F01%2F101533%2Fproses-terbentuknya-aurora-dan-jenis-jenis-lapisan-atmosfer-bumi%3Fpage%3Dall&psig=AOvVaw1k3tC92Ml36XmL9SySY7z6&ust=1699340868662000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjZvZjoroIDFQAAAAAdAAAAABAQ")
+  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.suara.com%2Flifestyle%2F2021%2F07%2F01%2F101533%2Fproses-terbentuknya-aurora-dan-jenis-jenis-lapisan-atmosfer-bumi%3Fpage%3Dall&psig=AOvVaw1k3tC92Ml36XmL9SySY7z6&ust=1699340868662000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjZvZjoroIDFQAAAAAdAAAAABAQ");
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  text-align: center;
+  padding: 100px;
+  position: relative;
+}
+
+#meteor {
+  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cnbcindonesia.com%2Ftech%2F20231103094641-37-486065%2Fpuncak-hujan-meteor-taurid-bisa-dilihat-di-ri-ini-jadwalnya&psig=AOvVaw1sf0SB6fv-1IWN1B_YMYAi&ust=1699340963682000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiT2sXoroIDFQAAAAAdAAAAABAH");
   background-size: cover;
   background-position: center;
   color: #fff;
