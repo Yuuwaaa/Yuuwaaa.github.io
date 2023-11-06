@@ -51,3 +51,12 @@ section {
   padding: 100px;
   position: relative;
 }
+#aurora {
+  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.suara.com%2Flifestyle%2F2021%2F07%2F01%2F101533%2Fproses-terbentuknya-aurora-dan-jenis-jenis-lapisan-atmosfer-bumi%3Fpage%3Dall&psig=AOvVaw1k3tC92Ml36XmL9SySY7z6&ust=1699340868662000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjZvZjoroIDFQAAAAAdAAAAABAQ")
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  text-align: center;
+  padding: 100px;
+  position: relative;
+}
