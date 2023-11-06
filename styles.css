@@ -8,7 +8,10 @@ body {
     height: 100vh;
 }
 .div-navbar {
-  background-color: gray;
+  background-image: url("https://wallpapers.com/images/hd/pretty-blue-07bmoyjklarnxx2x.jpg");
+  background-size: cover;
+  background_position: center;
+  position: relative;
   width: 100%;
   height: 100px;
 }
@@ -37,10 +40,8 @@ body {
   border-radius: 8px;
 }
 section {
-  margin-bottom: 30px;
   border: 1px solid #ddd;
   border-radius: 8px;
-  padding: 10px;
 }
 #blackhole {
   background-image: url("download.jpeg");
